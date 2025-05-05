@@ -12,7 +12,7 @@ const Banner = () => {
                             Impulsamos tu negocio <br /> Potenciamos tu futuro.
                         </h1>
                         <p className="mt-6 text-lg leading-8 text-bluegray">
-                        En Cabuby, nos dedicamos a ayudar a empresas, negocios, emprendimientos y startups a crecer y escalar mediante soluciones tecnológicas innovadoras <br /> engagement for report your business .
+                        En Cabuby transformamos, ayudamos a empresas, emprendimientos y startups a crecer y evolucionar, brindándoles soluciones tecnológicas innovadoras que optimizan procesos, mejoran su presencia digital y aceleran su desarrollo.
                         </p>
                     </div>
 

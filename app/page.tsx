@@ -6,11 +6,14 @@ import Why from './components/Why/index';
 import Network from './components/Network/index';
 import Clientsay from './components/Clientsay/index';
 import Newsletter from './components/Newsletter/Newsletter';
+import WhatsAppButton from "./components/WhatsAppButton";
+
 
 
 export default function Home() {
   return (
     <main>
+      <WhatsAppButton />
       <Banner />
       <Companies />
       <Buyers />
@@ -19,6 +22,7 @@ export default function Home() {
       <Network />
       <Clientsay />
       <Newsletter />
+      
     </main>
   )
 }
