@@ -41,7 +41,7 @@ const Network = () => {
                     Our network & world <br /> work details.
                 </h3>
 
-                {/* Asegúrate de que la ruta sea correcta */}
+               
                 <Image 
                     src="/assets/network/map.png" 
                     alt="Cabuby Startup" 
