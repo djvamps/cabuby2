@@ -10,13 +10,16 @@ interface Data {
 
 const data: Data[] = [
     { imgSrc: "/assets/carousel/google.svg" },
+
     { imgSrc: "/assets/carousel/netlify.svg" },
     
     { imgSrc: "/assets/carousel/udemy.png" },
+    
     { imgSrc: "/assets/carousel/next.svg" },
     
-    { imgSrc: "/assets/carousel/slack.png" },
-    { imgSrc: "/assets/carousel/udemy.png" }
+    { imgSrc: "/assets/carousel/slack.svg" },
+    
+    { imgSrc: "/assets/carousel/next.svg" }
 ];
 
 // CAROUSEL SETTINGS
