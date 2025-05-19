@@ -44,7 +44,7 @@ const Network = () => {
                 {/* Asegúrate de que la ruta sea correcta */}
                 <Image 
                     src="/assets/network/map.png" 
-                    alt="World map" 
+                    alt="Cabuby Startup" 
                     width={1400} 
                     height={800}
                     className="w-full h-auto" // Estilos adicionales
